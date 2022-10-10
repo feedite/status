@@ -1,3 +1,6 @@
+# code by savir singh
+# Feedite Status App
+
 from selenium import webdriver
 from PIL import Image
 import imagehash
