@@ -1,7 +1,7 @@
 # Feedite Status
 Automatically monitoring the status of Feedite
 
-The application currently monitors the statuses of the following:
+The application currently monitors the status of the following:
 - Login Page
 - Signup Page
 
